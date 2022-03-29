@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ImageLoader"
 include ':app'
-include ':ImageLoader'
+include ':lib_image'
